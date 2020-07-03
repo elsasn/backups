@@ -1,0 +1,144 @@
+{
+	"0": [
+		[
+			"core/plugins/sourcearea/icons/source.png",
+			"core/plugins/sourcedialog/icons/sourcedialog.png"
+		],
+		[
+			"core/plugins/sourcearea/icons/source-rtl.png",
+			"core/plugins/sourcedialog/icons/sourcedialog-rtl.png"
+		],
+		"core/plugins/save/icons/save.png",
+		"core/plugins/newpage/icons/newpage.png",
+		"core/plugins/newpage/icons/newpage-rtl.png",
+		"core/plugins/preview/icons/preview.png",
+		"core/plugins/preview/icons/preview-rtl.png",
+		"core/plugins/print/icons/print.png",
+		[
+			"core/plugins/templates/icons/templates.png",
+			"core/plugins/templates/icons/templates-rtl.png"
+		],
+		"core/plugins/docprops/icons/docprops.png",
+		"core/plugins/docprops/icons/docprops-rtl.png"
+	],
+	"1": [
+		[
+			"core/plugins/clipboard/icons/cut-rtl.png",
+			"core/plugins/clipboard/icons/cut.png"
+		],
+		[
+			"core/plugins/clipboard/icons/copy.png",
+			"core/plugins/clipboard/icons/copy-rtl.png"
+		],
+		[
+			"core/plugins/clipboard/icons/paste.png",
+			"core/plugins/clipboard/icons/paste-rtl.png"
+		],
+		"core/plugins/pastetext/icons/pastetext.png",
+		"core/plugins/pastetext/icons/pastetext-rtl.png",
+		"core/plugins/pastefromword/icons/pastefromword.png",
+		"core/plugins/pastefromword/icons/pastefromword-rtl.png",
+		"core/plugins/undo/icons/undo.png",
+		"core/plugins/undo/icons/undo-rtl.png",
+		"core/plugins/undo/icons/redo.png",
+		"core/plugins/undo/icons/redo-rtl.png"
+	],
+	"2": [
+		[
+			"core/plugins/find/icons/find-rtl.png",
+			"core/plugins/find/icons/find.png"
+		],
+		"core/plugins/find/icons/replace.png",
+		"core/plugins/selectall/icons/selectall.png",
+		[
+			"core/plugins/wsc/icons/spellchecker.png",
+			"core/plugins/scayt/icons/scayt.png"
+		]
+	],
+	"3": [
+		"core/plugins/forms/icons/form.png",
+		"core/plugins/forms/icons/checkbox.png",
+		"core/plugins/forms/icons/radio.png",
+		[
+			"core/plugins/forms/icons/textfield-rtl.png",
+			"core/plugins/forms/icons/textfield.png"
+		],
+		"core/plugins/forms/icons/textarea.png",
+		"core/plugins/forms/icons/textarea-rtl.png",
+		"core/plugins/forms/icons/select.png",
+		"core/plugins/forms/icons/select-rtl.png",
+		"core/plugins/forms/icons/button.png",
+		"core/plugins/forms/icons/imagebutton.png",
+		"core/plugins/forms/icons/hiddenfield.png"
+	],
+	"4": [
+		"core/plugins/basicstyles/icons/bold.png",
+		"core/plugins/basicstyles/icons/italic.png",
+		"core/plugins/basicstyles/icons/underline.png",
+		"core/plugins/basicstyles/icons/strike.png",
+		"core/plugins/basicstyles/icons/superscript.png",
+		"core/plugins/basicstyles/icons/subscript.png",
+		"core/plugins/removeformat/icons/removeformat.png"
+	],
+	"5": [
+		"core/plugins/list/icons/numberedlist.png",
+		"core/plugins/list/icons/numberedlist-rtl.png",
+		"core/plugins/list/icons/bulletedlist.png",
+		"core/plugins/list/icons/bulletedlist-rtl.png",
+		"core/plugins/indent/icons/outdent.png",
+		"core/plugins/indent/icons/indent.png",
+		"core/plugins/indent/icons/indent-rtl.png",
+		"core/plugins/indent/icons/outdent-rtl.png",
+		"core/plugins/blockquote/icons/blockquote.png",
+		"core/plugins/div/icons/creatediv.png",
+		"core/plugins/justify/icons/justifyleft.png",
+		"core/plugins/justify/icons/justifycenter.png",
+		"core/plugins/justify/icons/justifyright.png",
+		"core/plugins/justify/icons/justifyblock.png",
+		"core/plugins/bidi/icons/bidiltr.png",
+		"core/plugins/bidi/icons/bidirtl.png"
+	],
+	"6": [
+		"core/plugins/link/icons/link.png",
+		"core/plugins/link/icons/unlink.png",
+		"core/plugins/link/icons/anchor.png",
+		"core/plugins/link/icons/anchor-rtl.png"
+	],
+	"7": [
+		[
+			"core/plugins/image/icons/image.png",
+			"core/plugins/image2/icons/image.png"
+		],
+		"core/plugins/flash/icons/flash.png",
+		"core/plugins/table/icons/table.png",
+		"core/plugins/horizontalrule/icons/horizontalrule.png",
+		"core/plugins/smiley/icons/smiley.png",
+		"core/plugins/specialchar/icons/specialchar.png",
+		"core/plugins/pagebreak/icons/pagebreak.png",
+		"core/plugins/pagebreak/icons/pagebreak-rtl.png",
+		"core/plugins/iframe/icons/iframe.png"
+	],
+	"8": [
+		"core/plugins/colorbutton/icons/textcolor.png",
+		"core/plugins/colorbutton/icons/bgcolor.png"
+	],
+	"9": [
+		"core/plugins/maximize/icons/maximize.png",
+		"core/plugins/showblocks/icons/showblocks.png",
+		"core/plugins/showblocks/icons/showblocks-rtl.png"
+	],
+	"10": [
+		"core/plugins/about/icons/about.png",
+		"core/plugins/uicolor/icons/uicolor.png",
+		"core/plugins/placeholder/icons/placeholder.png",
+		"core/plugins/language/icons/language.png",
+		"core/plugins/codesnippet/icons/codesnippet.png"
+	],
+	"11": [
+		"core/plugins/link/images/anchor.png",
+		"skins/moono/images/close.png",
+		"skins/moono/images/lock.png",
+		"skins/moono/images/lock-open.png",
+		"skins/moono/images/refresh.png"
+	]
+}
